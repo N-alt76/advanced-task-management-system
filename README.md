@@ -121,6 +121,4 @@ The following are possible future improvements and are not currently implemented
 
 Building AMS provides practice with abstract base classes, inheritance, polymorphism, encapsulation of mutable state, custom iterators, decorators, threads, locks, logging, custom exceptions, file output, and unit testing.
 
-## Author
 
-Your Name - [GitHub Profile](https://github.com/your-username)
